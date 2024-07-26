@@ -53,7 +53,7 @@ const Hero = () => {
 
       <section className="slider_section">
         <div className="slider_bg_box">
-          <img src="images/file.png" alt="Slider Background" />
+          <img src="images/project.png" alt="Slider Background" />
         </div>
         <div id="customCarousel1" className="carousel slide" data-ride="carousel">
           <div className="carousel-inner">

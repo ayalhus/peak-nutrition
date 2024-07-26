@@ -10,7 +10,6 @@ const Service = () => {
               Our <span>Services</span>
             </h2>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.
             </p>
           </div>
           <div className="row">

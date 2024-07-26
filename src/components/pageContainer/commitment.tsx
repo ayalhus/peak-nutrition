@@ -4,7 +4,7 @@ const Commitment = () => {
   return (
     <section className="track_section layout_padding">
       <div className="track_bg_box">
-        <img src="images/file1.png" alt="Background"/>
+        <img src="images/4.png"  alt="Background"/>
       </div>
       <div className="container">
         <div className="row">

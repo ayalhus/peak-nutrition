@@ -1,9 +1,5 @@
-
-
-
-
 import React from 'react';
-
+ 
 const Contact = () => {
   return (
     <section id="contacts" className="contact_section">

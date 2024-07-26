@@ -16,7 +16,7 @@ const Footer = () => {
                   </a>
                   <a href="">
                     <i className="fa fa-phone" aria-hidden="true"></i>
-                    <span>Call +01 1234567890</span>
+                    <span>Call </span>
                   </a>
                   <a href="">
                     <i className="fa fa-envelope" aria-hidden="true"></i>
@@ -52,20 +52,16 @@ const Footer = () => {
                 <h4>Links</h4>
                 <div className="info_links">
                   <a className="active" href="index.html">
-                    <img src="images/nav-bullet.png" alt="Home"/>
-                    Home
+                  Home
                   </a>
                   <a className="" href="about.html">
-                    <img src="images/nav-bullet.png" alt="About"/>
-                    About
+                  About
                   </a>
                   <a className="" href="service.html">
-                    <img src="images/nav-bullet.png" alt="Services"/>
-                    Services
+                  Services
                   </a>
                   <a className="" href="contact.html">
-                    <img src="images/nav-bullet.png" alt="Contact Us"/>
-                    Contact Us
+                  Contact Us
                   </a>
                 </div>
               </div>
